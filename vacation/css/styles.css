@@ -1,0 +1,16 @@
+body {
+  font-family: fantasy;
+}
+h1 {
+  color: blue;
+  text-align: center;
+}
+img {
+  height: 300px;
+  width: 300px;
+  float:right;
+  margin: 10px;
+}
+.headtry {
+  background-color: pink;
+}
